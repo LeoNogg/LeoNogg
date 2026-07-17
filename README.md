@@ -1,30 +1,17 @@
-# Olá! eu me chamo Léo 👋
+# Olá! Eu me chamo Léo 👋
 
 Software Developer • Robotics • Linux
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎓 ADS Graduate
-
 🤖 Robotics Instructor
-
 🐧 I use Arch Linux btw
-
 💻 Full Stack Student
-
 🎨 Digital Artist
 
-🎮 RPG Gamer
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Tech Stack
-
-Python • HTML • CSS • JavaScript
-SQL • Git • Linux • Bash
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🚀 Tecnologias
+## 🚀 Tech Stack
 
 <p align="left">
 
@@ -36,13 +23,12 @@ SQL • Git • Linux • Bash
 
 ## 📊 GitHub
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoNogg&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoNogg&layout=compact&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
@@ -50,6 +36,6 @@ SQL • Git • Linux • Bash
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LeoNogg&theme=tokyonight&hide_border=true"/>
 
 </p>
