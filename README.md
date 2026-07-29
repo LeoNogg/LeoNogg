@@ -30,9 +30,10 @@
 
 <img src="https://streak-stats.demolab.com?user=LeoNogg&theme=tokyonight&hide_border=true"/>
 
-![snake animation](https://github.com/LeoNogg/LeoNogg/blob/output/github-contribution-grid-snake2.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeoNogg/LeoNogg/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
