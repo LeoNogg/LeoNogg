@@ -26,16 +26,13 @@
 
 ## 🔥 GitHub Streak
 
+![snake animation](https://github.com/<LeoNogg>/<LeoNogg>/blob/output/github-contribution-grid-snake2.svg)
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=LeoNogg&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeoNogg&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LeoNogg&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
