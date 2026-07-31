@@ -8,7 +8,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,bash,powershell,py,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,bash,powershell,py,mysql&theme=dark" />
   </a>
 </p>	
 
