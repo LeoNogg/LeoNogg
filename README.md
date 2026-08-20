@@ -13,12 +13,6 @@
 </p>	
 
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoNogg&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoNogg&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -29,6 +23,8 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=LeoNogg&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LeoNogg/LeoNogg/output/github-contribution-grid-snake-dark.svg" />
